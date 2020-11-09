@@ -1,0 +1,13 @@
+{
+
+"allowedExtensions" : [".less"],
+
+"minified" : false,
+
+"sourceMap" : false,
+
+"watchFolder" : "less_onama", 
+
+"outputFolder" : "css_onama"
+
+}
